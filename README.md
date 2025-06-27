@@ -1,4 +1,4 @@
-Task 4: Aggregate Functions, GROUP BY & HAVING Clause in LibraryDM Database
+## Task 4: Aggregate Functions, GROUP BY & HAVING Clause 
 This task focuses on retrieving summarized data using SQL aggregate functions, the GROUP BY clause for grouping rows, and the HAVING clause for filtering grouped results. 
 
 🛠️ Tools Used
