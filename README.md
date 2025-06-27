@@ -1,12 +1,12 @@
-## Task 4: Aggregate Functions, GROUP BY & HAVING Clause 
+# Task 4: Aggregate Functions, GROUP BY & HAVING Clause 
 This task focuses on retrieving summarized data using SQL aggregate functions, the GROUP BY clause for grouping rows, and the HAVING clause for filtering grouped results. 
 
-# Tools Used
+## Tools Used
 MySQL Workbench
 
 MySQL Server
 
-# Tables Used
+## Tables Used
 This task uses the following tables from the LibraryDM database:
 
 Books
@@ -17,7 +17,7 @@ Borrow
 
 Members
 
-# SQL Concepts Covered
+## SQL Concepts Covered
 COUNT(), SUM(), AVG(), MAX(), MIN()
 
 GROUP BY
