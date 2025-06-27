@@ -1,0 +1,8 @@
+use librarydm;
+
+select count(borrowid), max(bookid), min(bookid) from borrow;
+select sum(TNos) as total_books, Avg(TNos) as avg_copies from books;
+
+select count(*) as No_of_books, genre from books group by genre;
+
+select genre, avg(tnos) as avg_copies from books group by genre having avg(tnos)>20;
